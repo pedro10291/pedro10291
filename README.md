@@ -64,7 +64,5 @@ Sou um estudante de A.D.S com foco em Front-end e busco minha primeira oportunid
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
-
