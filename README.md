@@ -67,5 +67,5 @@ Sou um estudante de A.D.S com foco em Front-end e busco minha primeira oportunid
 <br/>
 <br/>
 
-![Animação legal]([https://i.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif](https://giphy.com/gifs/smile-png-fresh-cake-qmPz8oQXmE8ofEna))
-https://giphy.com/gifs/smile-png-fresh-cake-qmPz8oQXmE8ofEnaqt
+![Animação legal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFvaHA5cnQyNWRveWttbmFwNXJoMDltOGdkNzZvdmp2M2F2bGxiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRClRIlqchEGJ99wkK/giphy.gif)
+
