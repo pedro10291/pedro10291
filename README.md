@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou um estudante de A.D.S com foco em Front-end e busco minha primeira oportunidade no mercado de trabalho. Sou rápido em aprender novas tecnologias e me adaptar a diferentes ambientes de desenvolvimento. Sou um profissional dedicado, com rápida curva de aprendizado e habilidade para criar interfaces intuitivas e experiências de usuário excepcionais.
+Sou um Desenvolvedor Front-end e busco minha primeira oportunidade no mercado de trabalho. Sou rápido em aprender novas tecnologias e me adaptar a diferentes ambientes de desenvolvimento. Sou um profissional dedicado, com rápida curva de aprendizado e habilidade para criar interfaces intuitivas e experiências de usuário excepcionais.
 
 
 
