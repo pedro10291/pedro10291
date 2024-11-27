@@ -69,6 +69,5 @@ Sou um Desenvolvedor Front-end e busco minha primeira oportunidade no mercado de
 
 ![Animação legal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdhOWVpb20xYnlqZzIwNXN5MjVqcGxmMDVlc2NhZHlzMTJyYm5rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif)
 
-<center>
-  ![Animação legal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdhOWVpb20xYnlqZzIwNXN5MjVqcGxmMDVlc2NhZHlzMTJyYm5rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif)
-</center>
+
+
